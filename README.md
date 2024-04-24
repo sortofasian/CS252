@@ -2,4 +2,4 @@
 
 A small Java project.
 
-* Ths repository belongs to Jleno001@odu.edu
+* This repository belongs to Jleno001@odu.edu
